@@ -1,2 +1,5 @@
 Hi hello mister
-Heya humpty dumpty
+
+function(a, b){
+    console.log(a+b);
+}
